@@ -66,6 +66,7 @@ body{
     text-align: center;
 }
 #ready{
+    margin-top: 2rem;
     color: #fff;
     font-size: 1rem;
     font-weight: 400;
@@ -168,5 +169,13 @@ body{
     }
     #starts{
         width: 140px;
+    }
+}
+@media screen and (min-width:800px){
+    .hero h1{
+        font-size: 55px;
+    }
+    #starts{
+        font-size: 22px;
     }
 }
