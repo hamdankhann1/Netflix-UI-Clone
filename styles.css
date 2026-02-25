@@ -82,7 +82,7 @@ body{
     display: inline-block;
     background-color: rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(7px);
-    padding: 24px;
+    padding: 18px;
     border-radius: 10px;
     border: none;
     color: #fff;
@@ -104,7 +104,7 @@ body{
     color: #fff;
     background-color: #E50914;
     margin-left: 30px;
-    padding: 14px;
+    padding: 10px;
     border-radius: 10px;
     width: 150px;
     font-size: 20px;
